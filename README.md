@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ A Tech Enthusiast.<br>📛 A Full Stack Developer.<br>👀 Loyal to C++ and DSA.<br>🔮 Dweleved in the world of NLP and Data Science.
+⚡ A Tech Enthusiast.<br>📛 A Full Stack Developer.<br>👀 .NET Developer learning React. <br>🔮 Dweleved in the world of NLP and Data Science.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/FnncHzqu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__pranavj__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-jagtap-24pj/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/PronubOP) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCm2osRhlwe6A-AwXj26PSsw) 
